@@ -1,4 +1,4 @@
-package com.myapi.demo.myapi;
+package com.myapi.myapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

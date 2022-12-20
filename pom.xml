@@ -8,7 +8,7 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.my-api.demo</groupId>
+	<groupId>com.my-api</groupId>
 	<artifactId>my-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>my-api</name>
